@@ -1,0 +1,152 @@
+.main{
+    height: 3000px;
+    width: auto;
+    padding: 100px;
+}
+.intro{
+    text-align: center;
+}
+.navbar{
+    display: flex;
+}
+.head{
+    font-family: 'Fasthand', cursive;
+     font-size: 50px;
+     color: rgb(128, 97, 57);
+}
+h1{
+    margin-left: 20px;
+}
+.drik{
+    margin-right: 
+}
+.navbar img{
+    margin-left: 300px;
+    margin-top: ;
+}
+.mug{
+    margin-top: 30px;
+}
+/* Coffee tastes better when it is strong! */
+
+.subhead{
+
+font-family: 'Oxygen';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 32px;
+color: rgb(107, 76, 36);
+
+}
+.ct{
+    color: rgb(107, 76, 36);
+}
+#dis{
+    display: flex;
+justify-content: space-evenly;
+align-items: center;
+
+
+}
+#dis div{
+
+    border: 3px ;
+    box-shadow: 2px 2px 3px 3px;
+    margin: 10px;
+    padding: 40px;
+    border-radius: 20px;
+
+}
+#dis h3{
+    color: rgb(107, 76, 36);
+}
+.tb{
+    color: rgb(107, 76, 36);
+}
+#discrib{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    padding: 35px;
+}
+#sec1{
+display: flex;
+    padding: 20px;
+}
+.im1{
+    display: flex;
+   
+}
+.dis{
+    padding-left: 80px;
+text-align: justify; 
+    /* box-shadow: 1px 1px 2px; */
+     border-radius: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.dis h3{
+    color: rgb(107, 76, 36);
+}
+#sec2{
+    display: flex;
+    
+    }
+    .im1{
+        display: flex;
+       
+    }
+#discrib p{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        
+    }
+#discrib h3{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: rgb(107, 76, 36);
+    
+    }
+.gl{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(107, 76, 36);
+
+}
+.gallerymain{
+    display: flex;
+}
+.footer{
+    height: 340px;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+.btn{ height: 40px;
+    width: 100px;
+    background-color: rgb(175, 138, 90);
+    font-size: large;
+}
+.btn:hover{
+    background-color: black;
+    color: aliceblue;
+}
+.foot2{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(107, 76, 36);
+
+}
+.foot3{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(107, 76, 36);
+}
+#copy{
+    margin-left: 520px;
+    display: flex;
+}
+.headlogo{
+    padding-left: 200px;
+}
+.headlogo i{
+    font-size: 30px;
+    padding: 10px;
+
+}
